@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SVars
+  - Sky
+  - Stone
+  - Stone_1
+  - Stone_2
+  - Iron
+  - Dirt
+  - Glass
+  - Door_1
+  - Door_2
+  - LDoor_1
+  - LDoor_2
+  - Obsidian
+  - Station
+  - SaveLoad
+  - Food_Gen
+  - Oxygen_Gen
+  - Spacesuit_Crate
+  - Carbon
+  - Oxygen
+  - TEMP
+  - MENU
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Oxygen
+  - Carbon
+  - Door
+  - Oxy_GEN
+  - Glass
+  - Station
+  - Food_GEN
+  - SS_Crate
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
